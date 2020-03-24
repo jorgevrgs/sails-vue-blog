@@ -15,6 +15,7 @@ yarn global add @vue/cli @vue/cli-service-global
 vue create frontend
 # or
 vue ui
+vue add vuetify
 ```
 
 # Backend
